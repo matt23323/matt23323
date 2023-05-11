@@ -1,0 +1,17 @@
+body{
+	 background: rgb(7,0,36);
+background: linear-gradient(90deg, rgba(7,0,36,1) 12%, rgba(9,19,121,1) 50%, rgba(59,18,173,1) 100%); 
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+.commands{
+	width: 100px;
+color:white;
+	background-color: #030201;
+}
+
+h1,h2{
+	color: white;
+}
